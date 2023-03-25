@@ -40,7 +40,7 @@ The Government Communications eLearning platform was one of the first Docker-bas
 
 ## Get involved
 
-Contributors are welcome! Contact me here: `lawrencemcdaniel.com <https://lawrencemcdaniel.com/contact>`_ if you're interested in becoming a contributor to this project.
+Contributors are welcome! Contact me here: [lawrencemcdaniel.com](https://lawrencemcdaniel.com/contact) if you're interested in becoming a contributor to this project.
 
 ## Open edX Github Actions
 
