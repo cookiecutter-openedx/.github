@@ -11,11 +11,11 @@ We are a community supported organization focused on providing reliable CI autom
 
 Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiecutter Open edX Devops Tools is a community maintained project template for jumpstarting production-ready, [Kubernetes](https://kubernetes.io/)-based installations of the [Open edX](https://openedx.org/) online learning management system running on [AWS](https://aws.amazon.com/) cloud infrastructure that is built and managed with fully parameterized [Terraform](https://www.terraform.io/) and [Github Actions](https://docs.github.com/en/actions) automation scripts.
 
-![Cookiecutter workflow](../doc/cookiecutter-workflow.png)
+![Cookiecutter workflow](https://github.com/cookiecutter-openedx/.github/blob/main/doc/cookiecutter-workflow.png)
 
 The cookiecutter project helps you to focus on the pink boxes. It provides as nearly as is possible, "1-click" solutions for the gray and black boxes.
 
-![Open edX environment](../doc/openedx-use-case.png)
+![Open edX environment](https://github.com/cookiecutter-openedx/.github/blob/main/doc/openedx-use-case.png)
 
 To provide a consistent onboarding experience to new Cookiecutter users we also manage a few other repositories on which the automated build and deployment workflows depend. These include:
 
