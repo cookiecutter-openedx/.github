@@ -38,6 +38,10 @@ The Cookiecutter Open edX project was originally conceived in 2021 by project me
 
 The Government Communications eLearning platform was one of the first Docker-based Open edX:tm: platforms to launch at scale on Kubernetes-based cloud infrastructure. The devops team from this project brought a wealth of knowledge about cloud infrastructure, Kubernetes, CI/CD and infrastructure-as-code. Their efforts led to a robust set of integrated Terraform modules and fully automated CI solutions for building and deploying Open edX:tm: to Kubernetes. Moreover, they codified their extensive knowledge of CI and Kuberenetes best practices, maximizing the potential of these evolving technologies. In early 2022 this codebase was refactored into a more generalized collection of Jinja templating tools now known as "Cookiecutter Open edX" that is more suitable for community use and provides easy onboarding. Since then, the scope and feature set of Cookiecutter Open edX has grown considerably.
 
+## Get involved
+
+Contributors are welcome! Contact me here: `lawrencemcdaniel.com <https://lawrencemcdaniel.com/contact>`_ if you're interested in becoming a contributor to this project.
+
 ## Open edX Github Actions
 
 Don't forget to take a look at our cousin organization [Open edX Github Actions](https://github.com/openedx-actions) where we manage a collection of several dozen [Github Actions](https://github.com/features/actions) components that are used to create our automated Build and Deploy workflows.
