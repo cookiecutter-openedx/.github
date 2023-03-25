@@ -5,11 +5,11 @@
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
-We are a community supported organization focused on providing reliable CI automation and system management tools for Open edX:tm: software deployed to Kubernetes with [Tutor](https://docs.tutor.overhang.io/).
+We are a community supported organization focused on providing reliable [CI](https://en.wikipedia.org/wiki/Continuous_integration) automation and system management tools for [Open edX:tm:](https://openedx.org/) software deployed to [Kubernetes](https://kubernetes.io/) with [Tutor](https://docs.tutor.overhang.io/).
 
 ## How it works
 
-Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiecutter Open edX Devops Tools is a community maintained project template for jumpstarting production-ready, [Kubernetes](https://kubernetes.io/)-based installations of the [Open edX:tm: online learning management system](https://openedx.org/) running on [AWS](https://aws.amazon.com/) cloud infrastructure that is built and managed with fully parameterized [Terraform](https://www.terraform.io/) and [Github Actions](https://docs.github.com/en/actions) automation scripts.
+Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiecutter Open edX is a community maintained project for jumpstarting and managing production-ready, [Kubernetes](https://kubernetes.io/)-based installations of the [Open edX:tm: online learning management system](https://openedx.org/) running on [AWS](https://aws.amazon.com/) cloud infrastructure that is built and managed with fully parameterized [Terraform](https://www.terraform.io/) and [Github Actions](https://docs.github.com/en/actions) automation scripts.
 
 ![Cookiecutter workflow](https://github.com/cookiecutter-openedx/.github/blob/main/doc/cookiecutter-workflow.png)
 
