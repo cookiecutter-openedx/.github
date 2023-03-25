@@ -28,14 +28,20 @@ To provide a consistent onboarding experience to new Cookiecutter users we also 
 
 ## Our mission and philosophy
 
-Online learners are accustomed to performant, reliable and safe user experiences across the Internet, and they expect the same from your platform. But infrastructure and systems management are complex, constantly evolving matters that are hard to do well, and, they don't provide any meaningful differentation for your project. Compounding matters, installing and configuring Open edX software is notoriously complex, and even more so if you need to run your platform at scale. We believe that these are problems best solved by the Open edX community, for the greater benefit of the community.
+Online learners are accustomed to performant, reliable and safe user experiences across the Internet, and they expect the same from your platform. But infrastructure and systems management are complex, constantly evolving matters that are hard to do well, and they don't provide any meaningful differentation for your project.
+
+Compounding matters, installing and configuring Open edX software is notoriously complex; even more so if you need to run your platform at scale.
+
+Lastly, maintaining the Cookiecutter is hard work. Cloud infrastructure providers evolve and the back end services they offer undergo routine updates. Open edX releases new features. New security threats surface on a regular basis. The Cookiecutter project has to stay on top of these important changes.
+
+We believe that these are problems best solved by the Open edX community, for the greater benefit of the community.
 
 ## History
 
-The Cookiecutter Open edX project was originally conceived in 2021 by project members working on the [Government Communications eLearning](https://staging.global-communications-academy.com/) project for the [UK Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office), which they generously open-sourced. The principal project maintainer is [Lawrence McDaniel](https://lawrencemcdaniel.com/), a full stack developer and [Open edX community blogger](https://blog.lawrencemcdaniel.com/).
+The Cookiecutter Open edX project was originally conceived in 2021 by project members working on the [Government Communications eLearning](https://staging.global-communications-academy.com/) project for the [UK Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office) which they generously open-sourced. The principal project maintainer is [Lawrence McDaniel](https://lawrencemcdaniel.com/), a full stack developer and [Open edX community blogger](https://blog.lawrencemcdaniel.com/).
 
-The Government Communications eLearning platform was one of the first Docker-based Open edX platforms to launch at scale on Kubernetes-based cloud infrastructure. The devops team from this project created robust Terraform modules and fully automated CI solutions for building and deploying Open edX to Kubernetes. In early 2022 these tools were refactored into a more generalized collection of Jinja templating tools now known as "Cookiecutter Open edX" that is more suitable for community use. Since then, the scope and feature set of Cookiecutter Open edX has grown considerably
+The Government Communications eLearning platform was one of the first Docker-based Open edX platforms to launch at scale on Kubernetes-based cloud infrastructure. The devops team from this project, highly experienced Kubernetes and devops professionals, created robust Terraform modules and fully automated CI solutions for building and deploying Open edX to Kubernetes. This infrastructure-as-code approach implemented highly desirable best practices for Kubernetes that leverage the full feature set of this constantly evolving technology. In early 2022 this codebase was refactored into a more generalized collection of Jinja templating tools now known as "Cookiecutter Open edX" that is more suitable for community use and provides easy onboarding. Since then, the scope and feature set of Cookiecutter Open edX has grown considerably.
 
 ## Open edX Github Actions
 
-Don't forget to take a look at our cousin organization [Open edX Github Actions](https://github.com/openedx-actions) where we manage a collection of several dozen actions that are used to create our automated Build and Deploy workflows.
+Don't forget to take a look at our cousin organization [Open edX Github Actions](https://github.com/openedx-actions) where we manage a collection of several dozen [Github Actions](https://github.com/features/actions) components that are used to create our automated Build and Deploy workflows.
