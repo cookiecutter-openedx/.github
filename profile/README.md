@@ -13,7 +13,7 @@ Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiec
 
 ![Cookiecutter workflow](https://github.com/cookiecutter-openedx/.github/blob/main/doc/cookiecutter-workflow.png)
 
-The cookiecutter project helps you to focus on the pink boxes. It provides as nearly as is possible, "1-click" solutions for the gray and black boxes.
+The cookiecutter project helps you to focus on the blue boxes by saving you time keeping the gray and black boxes working as expected. It provides as nearly as is possible, "1-click" solutions for the gray and black boxes.
 
 ![Open edX environment](https://github.com/cookiecutter-openedx/.github/blob/main/doc/openedx-use-case.png)
 
@@ -26,9 +26,15 @@ To provide a consistent onboarding experience to new Cookiecutter users we also 
 
 ## Our commitment to the Open edX community
 
-
 ## Our mission and philosophy
 
+Online learners are accustomed to performant, reliable and safe user experiences across the Internet, and they expect the same from your platform. But infrastructure and systems management are complex, constantly evolving matters that are hard to do well, and, they don't provide any meaningful differentation for your project. Compounding matters, installing and configuring Open edX software is notoriously complex, and even more so if you need to run your platform at scale. We believe that these are problems best solved by the Open edX community, for the greater benefit of the community.
+
+## History
+
+The Cookiecutter Open edX project was originally conceived in 2021 by project members working on the [Government Communications eLearning](https://staging.global-communications-academy.com/) project for the [UK Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office), which they generously open-sourced. The principal project maintainer is [Lawrence McDaniel](https://lawrencemcdaniel.com/), a full stack developer and [Open edX community blogger](https://blog.lawrencemcdaniel.com/).
+
+The Government Communications eLearning platform was one of the first Docker-based Open edX platforms to launch at scale on Kubernetes-based cloud infrastructure. The devops team from this project created robust Terraform modules and fully automated CI solutions for building and deploying Open edX to Kubernetes. In early 2022 these tools were refactored into a more generalized collection of Jinja templating tools now known as "Cookiecutter Open edX" that is more suitable for community use. Since then, the scope and feature set of Cookiecutter Open edX has grown considerably
 
 ## Open edX Github Actions
 
