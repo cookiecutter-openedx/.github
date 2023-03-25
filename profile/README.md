@@ -9,11 +9,9 @@
 
 Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiecutter Open edX is a community maintained project for jumpstarting and managing production-ready [Tutor](https://docs.tutor.overhang.io/) and [Kubernetes](https://kubernetes.io/) based installations of the [Open edX:tm: online learning management system](https://openedx.org/) running on [AWS](https://aws.amazon.com/) cloud infrastructure that is built and managed with fully parameterized [Terraform](https://www.terraform.io/) and [Github Actions](https://docs.github.com/en/actions) automation scripts.
 
-![Cookiecutter workflow](https://github.com/cookiecutter-openedx/.github/blob/main/doc/cookiecutter-workflow.png)
+![Cookiecutter workflow](https://github.com/cookiecutter-openedx/.github/blob/main/doc/cookiecutter-how-it-works.png)
 
 The cookiecutter project helps you to remain focused on the blue boxes by providing you with templated solutions for everything else.
-
-![Open edX environment](https://github.com/cookiecutter-openedx/.github/blob/main/doc/openedx-use-case.png)
 
 To provide a consistent onboarding experience to new Cookiecutter users we also manage a few other repositories on which the automated build and deployment workflows depend. These include:
 
