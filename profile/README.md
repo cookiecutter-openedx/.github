@@ -9,7 +9,7 @@ We are a community supported organization focused on providing reliable CI autom
 
 ## How it works
 
-Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiecutter Open edX Devops Tools is a community maintained project template for jumpstarting production-ready, [Kubernetes](https://kubernetes.io/)-based installations of the [Open edX:tm:](https://openedx.org/) online learning management system running on [AWS](https://aws.amazon.com/) cloud infrastructure that is built and managed with fully parameterized [Terraform](https://www.terraform.io/) and [Github Actions](https://docs.github.com/en/actions) automation scripts.
+Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiecutter Open edX Devops Tools is a community maintained project template for jumpstarting production-ready, [Kubernetes](https://kubernetes.io/)-based installations of the [Open edX:tm: online learning management system](https://openedx.org/) running on [AWS](https://aws.amazon.com/) cloud infrastructure that is built and managed with fully parameterized [Terraform](https://www.terraform.io/) and [Github Actions](https://docs.github.com/en/actions) automation scripts.
 
 ![Cookiecutter workflow](https://github.com/cookiecutter-openedx/.github/blob/main/doc/cookiecutter-workflow.png)
 
@@ -26,7 +26,7 @@ To provide a consistent onboarding experience to new Cookiecutter users we also 
 
 ## Our commitment to the Open edX community
 
-We want to make it easier and more economical for small educational institutions, non-profits and ed-tech companies to leverage Open edX:tm: software. A single technology enthusiast should be capable of maintaining an Open edX:tm: platform on a part-time basis.
+We want to make it easier and more economical for small educational institutions, non-profits and ed-tech companies to leverage Open edX:tm: software. A single technology enthusiast should be able to maintain an Open edX:tm: platform on a part-time basis. Typical platforms should incur less than $500 usd in monthly cloud infrastructure costs.
 
 ## Our mission and philosophy
 
