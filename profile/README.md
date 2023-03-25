@@ -30,7 +30,7 @@ We want to make it easier and more economical for small educational institutions
 
 Online learners are accustomed to performant, reliable and safe user experiences across the Internet, and they expect the same from your platform. But infrastructure and systems management are complex, constantly evolving matters that are hard to do well, and they don't provide any meaningful differentation for your project. Compounding matters, installing and configuring Open edX:tm: software is notoriously complex; even more so if you need to run your platform at scale. Lastly, keeping packaged software and infrastructure properly maintained is hard work. Cloud infrastructure providers evolve and the back end services they offer undergo routine updates. Open edX:tm: releases new features. New security threats surface on a regular basis.
 
-*We believe that these are problems best solved by the Open edX community and that Cookiecutter Open edX's templated infrastructure-as-code strategy is the best way to facilitate this.*
+**We believe that these are problems best solved by the Open edX community and that Cookiecutter Open edX's templated infrastructure-as-code strategy is the best way to facilitate this.**
 
 ## History
 
