@@ -7,7 +7,7 @@
 
 ## How it works
 
-Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiecutter Open edX is a community maintained project for jumpstarting and managing production-ready, [Kubernetes](https://kubernetes.io/)-based installations of the [Open edX:tm: online learning management system](https://openedx.org/) running on [AWS](https://aws.amazon.com/) cloud infrastructure that is built and managed with fully parameterized [Terraform](https://www.terraform.io/) and [Github Actions](https://docs.github.com/en/actions) automation scripts.
+Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiecutter Open edX is a community maintained project for jumpstarting and managing production-ready [Tutor](https://docs.tutor.overhang.io/) and [Kubernetes](https://kubernetes.io/) based installations of the [Open edX:tm: online learning management system](https://openedx.org/) running on [AWS](https://aws.amazon.com/) cloud infrastructure that is built and managed with fully parameterized [Terraform](https://www.terraform.io/) and [Github Actions](https://docs.github.com/en/actions) automation scripts.
 
 ![Cookiecutter workflow](https://github.com/cookiecutter-openedx/.github/blob/main/doc/cookiecutter-workflow.png)
 
