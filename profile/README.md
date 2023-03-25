@@ -13,7 +13,7 @@ Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiec
 
 ![Cookiecutter workflow](https://github.com/cookiecutter-openedx/.github/blob/main/doc/cookiecutter-workflow.png)
 
-The cookiecutter project helps you to focus on the blue boxes by saving you time keeping the gray and black boxes working as expected. It provides as nearly as is possible, "1-click" solutions for the gray and black boxes.
+The cookiecutter project helps you to remain focused on the blue boxes by providing you with templated solutions for everything else.
 
 ![Open edX environment](https://github.com/cookiecutter-openedx/.github/blob/main/doc/openedx-use-case.png)
 
