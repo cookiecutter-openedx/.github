@@ -22,7 +22,7 @@ To provide a consistent onboarding experience to new Cookiecutter users we also 
 - an example [Open edX plugin](https://github.com/cookiecutter-openedx/openedx-plugin-example) that includes working, maintained code samples illustrating how to accomplish various programming and integration tasks.
 - an example [Open edX custom theme](https://github.com/cookiecutter-openedx/openedx-theme-example) that provides scaffolding to help you get started with cusomizing the appearance of your Open edX:tm: platform
 - a collection of [tutor plugins](https://docs.tutor.overhang.io/tutorials/plugin.html) that are needed when installing Open edX:tm: to Kubernetes
-- any repositories which we've forked on an interim basis in order to facilitate Kubernetes-specific customizations that were required, and remain pending in their respective upstream repositories.
+- any repositories which we've forked on an interim basis in order to facilitate Kubernetes-specific customizations, the PR's of which are pending in their respective upstream repositories.
 
 ## Our commitment to the Open edX community
 
