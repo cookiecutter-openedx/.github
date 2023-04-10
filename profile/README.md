@@ -17,6 +17,8 @@ To provide a consistent onboarding experience to new Cookiecutter users we also 
 
 - an [Open edX Plugin](https://github.com/cookiecutter-openedx/cookiecutter-openedx-plugin) that contains modifications that are needed when installing Open edX:tm: to Kubernetes.
 - a collection of [tutor plugins](https://docs.tutor.overhang.io/tutorials/plugin.html) that are needed when installing Open edX:tm: to Kubernetes.
+- a [Github Action](https://github.com/cookiecutter-openedx/aws-ecr-create) that automatically creates [AWS Elastic Container Repositories](https://aws.amazon.com/ecr/) for you if they're referenced in your workflow.
+- a custom Open edX Third Party [oAuth backend for Wordpress](https://github.com/cookiecutter-openedx/edx-oauth2-wordpress-backend).
 - an example [Open edX plugin](https://github.com/cookiecutter-openedx/openedx-plugin-example) that includes working, maintained code samples illustrating how to accomplish various programming and integration tasks.
 - an example [Open edX custom theme](https://github.com/cookiecutter-openedx/openedx-theme-example) that provides scaffolding to help you get started with cusomizing the appearance of your Open edX:tm: platform
 - any repositories which we've forked on an interim basis in order to facilitate Kubernetes-specific customizations, the PR's of which are pending in their respective upstream repositories.
