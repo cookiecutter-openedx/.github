@@ -5,9 +5,9 @@
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
-## How it works
+Cookiecutter Open edX is a community maintained project for jumpstarting and managing production-ready installations of the [Open edX:tm: online learning management system](https://openedx.org/) running at scale on Kubernetes cloud infrastructure.
 
-Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiecutter Open edX is a community maintained project for jumpstarting and managing production-ready [Tutor](https://docs.tutor.overhang.io/) and [Kubernetes](https://kubernetes.io/) based installations of the [Open edX:tm: online learning management system](https://openedx.org/) running on [AWS](https://aws.amazon.com/) cloud infrastructure that is built and managed with fully parameterized [Terraform](https://www.terraform.io/) and [Github Actions](https://docs.github.com/en/actions) automation scripts.
+## How it works
 
 ![Cookiecutter workflow](https://github.com/cookiecutter-openedx/.github/blob/main/doc/cookiecutter-how-it-works.png)
 
